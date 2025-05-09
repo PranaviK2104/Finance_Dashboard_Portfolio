@@ -1,3 +1,4 @@
+![Banner](Images/Finance_Dashboard.png)
 # 📊 Product Profitability and Customer Overview Dashboard
 
 This Power BI dashboard provides an at-a-glance view of key financial metrics including revenue, profit, customer insights, and product performance. It enables decision-makers to identify profitable products, understand regional trends, and monitor customer revenue contribution over time.
