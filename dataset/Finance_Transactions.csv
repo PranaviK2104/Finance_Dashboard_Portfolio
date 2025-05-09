@@ -1,0 +1,6 @@
+TransactionID,TransactionDate,CustomerID,ProductID,Department,Revenue,Expense,Profit
+1,2023-04-13,1002,231,Operations,927,360,567
+2,2023-12-15,1032,243,Operations,828,593,235
+3,2023-09-28,1005,217,Operations,731,616,115
+4,2023-04-17,1049,205,Finance,274,438,-164
+5,2023-03-13,1009,217,Operations,122,597,-475

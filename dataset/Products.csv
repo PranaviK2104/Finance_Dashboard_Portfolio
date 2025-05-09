@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,BasePrice
+200,Product_200,Insurance,286
+201,Product_201,Credit Card,957
+202,Product_202,Loan,755
+203,Product_203,Insurance,361
+204,Product_204,Insurance,463
+205,Product_205,Mortgage,590
+206,Product_206,Loan,530
+207,Product_207,Credit Card,338
+208,Product_208,Credit Card,403
+209,Product_209,Credit Card,397
+210,Product_210,Loan,175
+211,Product_211,Credit Card,799
+212,Product_212,Credit Card,432
+213,Product_213,Credit Card,999
+214,Product_214,Mortgage,857
+215,Product_215,Mortgage,741
+216,Product_216,Loan,573
+217,Product_217,Loan,926
+218,Product_218,Credit Card,382
+219,Product_219,Mortgage,690
+220,Product_220,Insurance,171
+221,Product_221,Insurance,362
+222,Product_222,Credit Card,802
+223,Product_223,Credit Card,978
+224,Product_224,Mortgage,986
+225,Product_225,Mortgage,674
+226,Product_226,Mortgage,991
+227,Product_227,Loan,111
+228,Product_228,Loan,240
+229,Product_229,Credit Card,865
+230,Product_230,Loan,654
+231,Product_231,Mortgage,116
+232,Product_232,Mortgage,162
+233,Product_233,Loan,352
+234,Product_234,Insurance,564
+235,Product_235,Credit Card,475
+236,Product_236,Insurance,903
+237,Product_237,Credit Card,619
+238,Product_238,Insurance,936
+239,Product_239,Loan,189
+240,Product_240,Credit Card,819
+241,Product_241,Credit Card,903
+242,Product_242,Credit Card,895
+243,Product_243,Mortgage,729
+244,Product_244,Mortgage,960
+245,Product_245,Insurance,274
+246,Product_246,Loan,175
+247,Product_247,Mortgage,712
+248,Product_248,Credit Card,762
+249,Product_249,Mortgage,499
